@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Мои стихи</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_write">Дата создания:</string>
+    <string name="date_edit">Дата последнего редактирования:</string>
+    <string name="title">Заголовок</string>
+    <string name="write">Напишите текст</string>
+    <string name="text">Записано:</string>
+    <string name="text_2">Редактировано:</string>
+    <string name="welcome_text">Запишите свое первое стихотворение и пусть их будет много!</string>
+    <string name="delete_text">Удалить</string>
+</resources>
