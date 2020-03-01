@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.notebookforpoetry">
+    package="com.petrgostev.NotebookForPoetry">
 
     <application
         android:allowBackup="true"
@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
         <activity
-            android:name=".WritesList.View.StartActivity"
+            android:name="com.petrgostev.NotebookForPoetry.WritesList.View.StartActivity"
             android:label="@string/app_name"
             android:windowSoftInputMode="stateAlwaysHidden"
             android:theme="@style/AppTheme.NoActionBar"
